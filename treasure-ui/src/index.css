@@ -1,0 +1,11 @@
+/* src/index.css */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0D1117;
+  color: white;
+}
+
+#root {
+  min-height: 100vh;
+}
